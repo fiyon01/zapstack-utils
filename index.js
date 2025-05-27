@@ -5,6 +5,4 @@ function generateZapReferenceId() {
   return `zap_${timestamp}_${random}`;
 }
 
-module.exports = {
-  generateZapReferenceId
-};
+module.exports = generateZapReferenceId;
