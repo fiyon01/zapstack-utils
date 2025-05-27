@@ -1,0 +1,21 @@
+{
+  "name": "zapstack-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for ZapStack integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiyon01/zapstack-utils.git"
+  },
+  "keywords": [],
+  "author": "Githinji Kamau",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fiyon01/zapstack-utils/issues"
+  },
+  "homepage": "https://github.com/fiyon01/zapstack-utils#readme"
+}
