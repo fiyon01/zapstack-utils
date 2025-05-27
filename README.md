@@ -12,3 +12,5 @@ const { generateZapReferenceId } = require('zapstack-utils');
 
 const ref = generateZapReferenceId();
 console.log(ref);
+
+[![NPM version](https://img.shields.io/npm/v/zapstack-utils)](https://www.npmjs.com/package/zapstack-utils)
